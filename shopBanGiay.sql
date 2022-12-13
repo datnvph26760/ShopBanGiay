@@ -116,3 +116,4 @@ select * from Nhanvien
 
 select * from ChiTietSanPham
 select * from Loai
+select * from KhachHang
